@@ -5,11 +5,11 @@
 //Evaluate the below:
 
 3 + "65" //365
-7 - "3"  //73
+7 - "3"  //4
 15 % 5   //3
-5 % 15 
+5 % 15  //5
 "Java" + "Script" //JavaScript
-"Java" - "Script" 
+"Java" - "Script" //NaN
 " " + " "  //  spacespace
 " " + 0  // space0
 true + true  //2
