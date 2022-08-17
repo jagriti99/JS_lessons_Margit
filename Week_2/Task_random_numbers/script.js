@@ -1,7 +1,7 @@
 let x,y,z;
-x = promt("Enter first number");
-y = promt("Enter second number");
-z = promt("Enter third number");
+x = Number(promt("Enter first number"));
+y = Number(promt("Enter second number"));
+z = Number(promt("Enter third number"));
 
 if (x>=0){
     return x+y+z;
