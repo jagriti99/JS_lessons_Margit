@@ -1,0 +1,21 @@
+.container{
+    padding:20px;
+    border-radius: 8px;
+    background-color: antiquewhite;
+}
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+form{
+text-align:start;
+font-size: large;
+
+}
+input[type=submit]{
+    background-color: aqua;
+    color:blue;
+    padding: 12px 20px;
+    border:none;
+    border-radius: 8px;
+    cursor:pointer;
+}
